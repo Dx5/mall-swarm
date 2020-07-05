@@ -16,4 +16,8 @@ public class GitTest {
         log.info("test Amend");
         log.info("checkout master idea之后");
     }
+    @Test
+    public void mergeAndRebase(){
+
+    }
 }
