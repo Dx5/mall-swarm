@@ -11,4 +11,9 @@ public class GitTest {
     public void Diff(){
         log.info("commit 之后");
     }
+    @Test
+    public void checkoutMaster(){
+        log.info("test Amend");
+        log.info("checkout master idea之后");
+    }
 }
