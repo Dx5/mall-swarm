@@ -14,6 +14,7 @@ public class GitTest {
     @Test
     public void checkoutMaster(){
         log.info("test Amend");
+        log.info("test Amend");
         log.info("checkout master idea之后");
     }
 }
