@@ -9,6 +9,6 @@ import org.springframework.boot.test.context.SpringBootTest;
 public class GitTest {
     @Test
     public void Diff(){
-
+        log.info("commit 之后");
     }
 }
